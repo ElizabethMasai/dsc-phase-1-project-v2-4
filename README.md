@@ -42,9 +42,13 @@ The project through data analysis also comes up with top ten movies based on pop
 ![download](https://github.com/ElizabethMasai/dsc-phase-1-project-v2-4/assets/150329461/769f51ef-25e6-4640-93cc-34777e9d263d)
 
 ****Conclusion**
+
 From the analysis above, Microsoft should;
+
 1.Focus on Avengers: Infinity War because it has a greater rating in terms of popularity, vote count and vote average.
+
 2.Production budget has little to no impact on the gross returns of the movies.Microsoft should therefore should not pay so much attention on the production budget but rather on the final returns derived from availing any time of movie/film when putting into consideration the outside market.
+
 3.Concentrate on Star Wars Ep. VII: The Force Awakens for the domestic market.This is because of its high rating iterms of domestic gross.
 
 
