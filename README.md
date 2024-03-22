@@ -1,5 +1,56 @@
 # Phase 1 Project Description
 
+MICROSOFT FILM HAVEN
+1.Project Overview
+Microsoft wants to venture into the movie industry by setting up a new movie studio-we call it Microsoft Film Haven,with a primary goal of gaining vast knowledge and understanding of the current market so as to make sound decisions in film production.The project therefore explores the film production industry and analyses the information into actionable insight.
+
+2.Business Understanding
+The  main goal of this project is to gain knowledge on the current market trends in the successful and well established movies at the box office to help in deciding on the types of movies to produce.Analysis on the data has been done and recomendations on what Microsoft should do reached at.
+
+3.This project makes use of data from a local zipped file provided by Microsoft. The data includes the following datasets; 1.Movie genres 2.Movie budget 3.Movie gross output both foreign and domestic 4.movie review and 5.movie information.
+
+4.Outcome
+The bar graph below shows ttop ten movies based on their domestic gross.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
