@@ -1,23 +1,42 @@
 # Phase 1 Project Description
+MICROSOFT FILM HAVEN
+1.Project Overview
+Microsoft wants to venture into the movie industry by setting up a new movie studio-we call it Microsoft Film Haven,with a primary goal of gaining vast knowledge and understanding of the current market so as to make sound decisions in film production.The project therefore explores the film production industry and analyses the information into actionable insight.
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+2.Business Understanding
+The  main goal of this project is to gain knowledge on the current market trends in the successful and well established movies at the box office to help in deciding on the types of movies to produce.Analysis on the data has been done and recommendations on what Microsoft should do, reached at.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+3.This project makes use of data from a local zipped file provided by Microsoft. The data includes the following datasets; 1.Movie genres 2.Movie budget 3.Movie gross output both foreign and domestic 4.movie review and 5.movie information.
 
-Now you will put your new skills to use with a large end-of-Phase project!
+4.Outcome
+The bar graph below shows top ten movies based on their domestic gross.
 
-In this project description, we will cover:
 
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
 
-## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+![download](https://github.com/ElizabethMasai/dsc-phase-1-project-v2-4/assets/150329461/5d573037-9b78-4d73-859f-37140e7a7b7c)
 
-### Business Problem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
